@@ -1,0 +1,16 @@
+{
+  "name": "tsnut-secp256k1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "20.14.10",
+    "tiny-secp256k1": "2.2.3",
+    "tsnut": "file:../tsnut"
+  }
+}
